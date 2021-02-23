@@ -193,7 +193,7 @@ public:
 							cout<<"(CORRECT ANSWER  IS 1.Single - dimensional.)"<<endl;
 							line();
 						}else {
-
+							cout << "Invalid Input"<< endl;
 						}
 
 
@@ -218,7 +218,7 @@ public:
 							cout<<"(CORRECT ANSWER  IS 3.&)"<<endl;
 							line();
 						}else {
-
+							cout << "Invalid Input"<< endl;
 						}
 
 						//q3 chi condition
@@ -270,7 +270,7 @@ public:
 							line();
 						}
 						else {
-
+							cout << "Invalid Input"<< endl;
 						}
 
 						//q5 chi condition
@@ -295,7 +295,7 @@ public:
 							line();
 						}
 						else {
-
+ 							cout << "Invalid Input"<< endl;
 						}
 
 						cout << endl;
